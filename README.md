@@ -3,7 +3,7 @@
 ## What is this for? What is VSE?
 
 VSE stands for **v**ibrational **S**tark **e**ffect, which can be understood as the response of molecular vibration upon electric field and such response can be quantitatively measured by the shift of vibrational frequencies for a bond stretching vibration (e.g. C=O stretching).
-In this way, the strength of an electric field the molecule ''feels'' can be determined with vibrational spectroscopy.
+In this way, the strength of an electric field that the molecule ''feels'' can be determined with vibrational spectroscopy.
 
 When applying VSE one normally assumes that the molecular vibration of the probe bond is completely localized, but this assumption might or might not hold for the molecule used as a vibrational Start effect **probe**.
 Therefore, we need to determine to what extent the above assumption holds for one probe molecule. We solved this problem by utilizing a procedure which can decompose any molecular vibration (normal mode)
